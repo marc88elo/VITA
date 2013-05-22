@@ -1,0 +1,5 @@
+C:\Users\Marcelo\Documents\Visual Studio 2012\Projects\VitaMVC\MvcDomain.Tests\bin\Debug\MvcDomain.Tests.dll
+C:\Users\Marcelo\Documents\Visual Studio 2012\Projects\VitaMVC\MvcDomain.Tests\bin\Debug\MvcDomain.Tests.pdb
+C:\Users\Marcelo\Documents\Visual Studio 2012\Projects\VitaMVC\MvcDomain.Tests\obj\Debug\MvcDomain.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Documents\Visual Studio 2012\Projects\VitaMVC\MvcDomain.Tests\obj\Debug\MvcDomain.Tests.dll
+C:\Users\Marcelo\Documents\Visual Studio 2012\Projects\VitaMVC\MvcDomain.Tests\obj\Debug\MvcDomain.Tests.pdb

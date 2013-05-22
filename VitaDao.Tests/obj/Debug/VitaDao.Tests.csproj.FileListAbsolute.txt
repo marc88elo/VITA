@@ -1,0 +1,5 @@
+C:\Users\Marcelo\Documents\Visual Studio 2012\Projects\VitaMVC\VitaDao.Tests\bin\Debug\VitaDao.Tests.dll
+C:\Users\Marcelo\Documents\Visual Studio 2012\Projects\VitaMVC\VitaDao.Tests\bin\Debug\VitaDao.Tests.pdb
+C:\Users\Marcelo\Documents\Visual Studio 2012\Projects\VitaMVC\VitaDao.Tests\obj\Debug\VitaDao.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Documents\Visual Studio 2012\Projects\VitaMVC\VitaDao.Tests\obj\Debug\VitaDao.Tests.dll
+C:\Users\Marcelo\Documents\Visual Studio 2012\Projects\VitaMVC\VitaDao.Tests\obj\Debug\VitaDao.Tests.pdb
